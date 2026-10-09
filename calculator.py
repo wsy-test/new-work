@@ -11,8 +11,7 @@ def subtract(a, b):
 
 def multiply(a, b):
     """乘法运算"""
-    # 注意：这里故意写错了，应该是 a * b
-    return a + b
+    return a * b
 
 def divide(a, b):
     """除法运算"""
